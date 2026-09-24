@@ -2,9 +2,7 @@
 Because **why not reinvent the wheel but with spikes**?  
 This tool is your friendly neighborhood **website vulnerability sniffer** with some **serious attitude**.
 ```
-                    ░▀█▀░█▀█░█▀▄░█▀▀░█▀█░█▀▀░█▀▀░▀█▀░█▀▄░█▀█
-                    ░░█░░█▀█░█▀▄░▀▀█░█▀▀░█▀▀░█░░░░█░░█▀▄░█▀█
-                    ░░▀░░▀░▀░▀░▀░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░▀░▀░▀░▀
+                    
 ```
 ---
 
